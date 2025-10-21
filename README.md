@@ -7,7 +7,7 @@
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
 -  Final-year B.Tech CSE student at **Central University of Kashmir**
 -  **Lung Cancer Detection and Classification**
@@ -25,7 +25,7 @@
 ###  Skills
 
 Languages:    Python, Java, C/C++, HTML, CSS, JavaScript
-Libraries:    NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, OpenCV
+Libraries:    NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, OpenCV, Seaborn, Matplotlib
 Frameworks:   Django,
-Tools:        Git, GitHub, Jupyter, VS Code, Google Colab
+Tools:        Git, GitHub, Jupyter, VS Code, Google Colab, Postman, Excel, Power BI
 
