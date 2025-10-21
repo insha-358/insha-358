@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Insha Javaid</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | Python Developer | Open Source Enthusiast</h3>
+<h1 align="center">Hi , I'm Insha Javaid</h1>
+<h3 align="center">Aspiring Data Analyst and Machine Learning Engineer | Python Developer | Open Source Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=35C6F7&center=true&vCenter=true&width=440&lines=Final+Year+B.Tech+CS+Student;ML+%7C+DL+%7C+AI+Researcher;Lung+Cancer+Detection+Project;Open+Source+Contributor" alt="Typing SVG" />
@@ -9,19 +9,20 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Final-year B.Tech CSE student at **Central University of Kashmir**
-- 🔬 Currently working on **Lung Cancer Detection and Classification**
-- 👩‍🔬 Research interest: **AI in Healthcare, Computer Vision, Deep Learning**
-- 🧠 Exploring Transformer-based models and 3D CNN architectures
-- 🏆 Coding Lead at **Code Squad**, organizing hackathons and coding challenges
+-  Final-year B.Tech CSE student at **Central University of Kashmir**
+-  **Lung Cancer Detection and Classification**
+-  **Spotify Track Analysis**
+-  Research interest: **AI in Healthcare, Computer Vision, Deep Learning**
+-  Exploring Transformer-based models and 3D CNN architectures
+-  Coding Lead at **Code Squad**, organizing hackathons and coding challenges
 
 
 ---
 
-### 🔭 Projects
+###  Projects
 
 
-### 🛠️ Skills
+###  Skills
 
 Languages:    Python, Java, C/C++, HTML, CSS, JavaScript
 Libraries:    NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, OpenCV
