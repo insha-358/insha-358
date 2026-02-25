@@ -9,7 +9,8 @@
 
 ###  About Me
 
--  Final-year B.Tech CSE student at **Central University of Kashmir**
+-  Graduate From **Central University of Kashmir**
+  
 -  **Lung Cancer Detection and Classification**
 -  **Spotify Track Analysis**
 -  Research interest: **AI in Healthcare, Computer Vision, Deep Learning**
@@ -24,8 +25,9 @@
 
 ###  Skills
 
-Languages:    Python, Java, C/C++, HTML, CSS, JavaScript
-Libraries:    NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, OpenCV, Seaborn, Matplotlib
-Frameworks:   Django,
+Languages:    Python, Java, C/C++, HTML, CSS, JavaScript, Dart
+Libraries:    NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, OpenCV, Seaborn, Matplotlib, Flutter Libraries
+Frameworks:   Django
+Databases:    PostGres, MySQL, MINIO
 Tools:        Git, GitHub, Jupyter, VS Code, Google Colab, Postman, Excel, Power BI
 
