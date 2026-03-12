@@ -10,7 +10,7 @@
 ###  About Me
 
 -  Graduate From **Central University of Kashmir**
-  
+-  Currently working on the **AI-Personalized-Growth-Management-System**
 -  **Lung Cancer Detection and Classification**
 -  **Spotify Track Analysis**
 -  Research interest: **AI in Healthcare, Computer Vision, Deep Learning**
