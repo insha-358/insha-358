@@ -1,36 +1,38 @@
 <h1 align="center">Hi, I'm Insha Javaid</h1>
-<h3 align="center">Aspiring Data Analyst and Machine Learning Engineer | Python Developer | Flutter Developer | Open Source Enthusiast</h3>
+<h3 align="center">GenAI Developer | ML Engineer | Full Stack Developer</h3>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=35C6F7&center=true&vCenter=true&width=440&lines=Computer+Science+Engineer;ML+%7C+DL+%7C+AI+Researcher"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=35C6F7&center=true&vCenter=true&width=420&lines=LLMs+%7C+LangChain+%7C+AI+Systems;ML+%7C+DL+%7C+Computer+Vision"
   />
 </p>
 
 ---
 
-###  About Me
-
--  Graduate From **Central University of Kashmir**
--  Currently working on the **AI-Personalized-Growth-Management-System**
--  **Lung Cancer Detection and Classification**
--  **Spotify Track Analysis**
--  Research interest: **AI in Healthcare, Computer Vision, Deep Learning**
--  Exploring Transformer-based models and 3D CNN architectures
--  Coding Lead at **Code Squad**, organizing hackathons and coding challenges
-
+### 🚀 About Me
+- 💼 Full Stack Developer at Defcon Innovations  
+- 🎓 B.Tech CSE, Central University of Kashmir  
+- 🤖 Building **GenAI apps, LLM workflows & AI systems**  
+- 🔬 Interested in **AI in Healthcare & Computer Vision**
 
 ---
 
-###  Projects
+### 🛠️ Tech Stack
+`Python` `Dart` `JavaScript`  
+`LangChain` `LLMs` `TensorFlow` `PyTorch`  
+`Django` `FastAPI` `Flutter`  
+`PostgreSQL` `MongoDB` `Firebase`
 
+---
 
-###  Skills
+### 📌 Projects
+- 🩺 Lung Cancer Detection (YOLO + ViT + XGBoost)  
+- 🤖 AI Growth Management System (LangChain + RAG)  
+- 📞 Real-time Chat & Calling App (WebRTC + Flutter)  
+- 🎧 Spotify Data Analysis Dashboard  
 
-Languages:    Python, Java, C/C++, HTML, CSS, JavaScript, Dart
-Libraries:    NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, OpenCV, Seaborn, Matplotlib, Flutter Libraries
-Frameworks:   Django
-Databases:    PostGres, MySQL, MINIO
-Tools:        Git, GitHub, Jupyter, VS Code, Google Colab, Postman, Excel, Power BI
+---
 
+### 📫 Connect
+- LinkedIn: linkedin.com/in/insha-javaid-71a01423a  
+- GitHub: github.com/insha-358  
